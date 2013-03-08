@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Soares Chen",
+    "email": "soares.chen@gmail.com",
+    "url": "http://soareschen.com"
+  },
+  "name": "quiver-object-cache",
+  "desription": "Map-like cache engine that cache Javascript objects in LRU order",
+  "version": "0.0.1",
+  "homepage": "https://github.com/quiverjs/object-cache",
+  "repository": {
+    "url": "git@github.com:quiverjs/object-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quiverjs/object-cache/issues",
+    "email": "quiverjs@soareschen.com"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "https://raw.github.com/quiverjs/license/master/LICENSE"
+  },
+  "main": "./lib/object-cache"
+}
