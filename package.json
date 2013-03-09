@@ -6,12 +6,13 @@
   },
   "name": "quiver-object-cache",
   "desription": "Map-like cache engine that cache Javascript objects in LRU order",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/quiverjs/object-cache",
   "repository": {
     "url": "git@github.com:quiverjs/object-cache.git"
   },
   "dependencies": {
+    "quiver-param": ">=0.0.1",
     "moment": ">=2.0.0"
   },
   "bugs": {
